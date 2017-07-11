@@ -1,3 +1,3 @@
-# Lib Ideas
+# Ideas
 
-> Javascript libraries ideas
+> Ideas that I have
