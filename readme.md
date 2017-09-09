@@ -8,3 +8,4 @@ Done
 - [npm-donate](https://github.com/bukinoshita/ideas/issues/8)
 - [UAI](https://github.com/bukinoshita/ideas/issues/12)
 - [Inkblee](https://github.com/bukinoshita/ideas/issues/13)
+- [npm-global-list](https://github.com/bukinoshita/ideas/issues/19)
