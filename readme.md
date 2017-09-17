@@ -9,3 +9,4 @@ Done
 - [UAI](https://github.com/bukinoshita/ideas/issues/12)
 - [Inkblee](https://github.com/bukinoshita/ideas/issues/13)
 - [npm-global-list](https://github.com/bukinoshita/ideas/issues/19)
+- [shhhowr](https://github.com/bukinoshita/ideas/issues/20)
