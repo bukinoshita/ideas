@@ -10,3 +10,4 @@ Done
 - [Inkblee](https://github.com/bukinoshita/ideas/issues/13)
 - [npm-global-list](https://github.com/bukinoshita/ideas/issues/19)
 - [shhhowr](https://github.com/bukinoshita/ideas/issues/20)
+- [git-topics](https://github.com/bukinoshita/ideas/issues/1)
