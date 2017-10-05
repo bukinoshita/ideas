@@ -11,3 +11,4 @@ Done
 - [npm-global-list](https://github.com/bukinoshita/ideas/issues/19)
 - [shhhowr](https://github.com/bukinoshita/ideas/issues/20)
 - [git-topics](https://github.com/bukinoshita/ideas/issues/1)
+- [speechkit](https://github.com/bukinoshita/ideas/issues/26)
