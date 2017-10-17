@@ -12,3 +12,4 @@ Done
 - [shhhowr](https://github.com/bukinoshita/ideas/issues/20)
 - [git-topics](https://github.com/bukinoshita/ideas/issues/1)
 - [speechkit](https://github.com/bukinoshita/ideas/issues/26)
+- [sketch-draft](https://github.com/bukinoshita/ideas/issues/29)
