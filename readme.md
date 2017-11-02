@@ -16,3 +16,4 @@ Done
 - [toggle-hotplug](https://github.com/bukinoshita/ideas/issues/30)
 - [share-twitter](https://github.com/bukinoshita/ideas/issues/33)
 - [share-facebook](https://github.com/bukinoshita/ideas/issues/34)
+- [hackdisrupt](https://github.com/bukinoshita/ideas/issues/31)
