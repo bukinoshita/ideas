@@ -18,3 +18,4 @@ Done
 - [share-facebook](https://github.com/bukinoshita/ideas/issues/34)
 - [hackdisrupt](https://github.com/bukinoshita/ideas/issues/31)
 - [gh-polls](https://github.com/bukinoshita/ideas/issues/35)
+- [secret](https://github.com/bukinoshita/ideas/issues/40)
