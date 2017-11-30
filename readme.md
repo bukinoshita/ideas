@@ -19,3 +19,4 @@ Done
 - [hackdisrupt](https://github.com/bukinoshita/ideas/issues/31)
 - [gh-polls](https://github.com/bukinoshita/ideas/issues/35)
 - [secret](https://github.com/bukinoshita/ideas/issues/40)
+- [now-docs](https://github.com/bukinoshita/ideas/issues/41)
